@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">konyvesmobil</string>
+    <string name="vissza">Vissza</string>
+    <string name="kiad_s_ve">Kiadás éve:</string>
+    <string name="oldalsz_m">Oldalszám:</string>
+    <string name="szerz">Szerző:</string>
+    <string name="c_m">Cím:</string>
+    <string name="k_nyv_c_me">Könyv címe</string>
+    <string name="szerz_neve">Szerző neve</string>
+    <string name="oldalsz_m1">Oldalszám</string>
+    <string name="hozz_ad_s">Hozzáadás</string>
+</resources>
